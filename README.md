@@ -16,6 +16,10 @@ Repositório criado para controle dos artefatos do projeto.
 
 ### [Implementação da Aplicação Android](https://github.com/jvsantillo/AcabouMinhaLuzCERTICS/tree/master/project)
 
+### [Arquitetura](https://github.com/jvsantillo/AcabouMinhaLuzCERTICS/blob/master/Arquitetura/Arquitetura.jpg)
+
+### [Documento de Especificação de Requisitos](https://github.com/jvsantillo/AcabouMinhaLuzCERTICS/blob/master/Especifica%C3%A7%C3%A3o%20de%20Requisitos/Documento%20de%20Especifica%C3%A7%C3%A3o%20de%20Requisitos.pdf)
+
 ### Integrantes da Equipe
 * João Pedro Salgado
 * João Vitor Santillo
