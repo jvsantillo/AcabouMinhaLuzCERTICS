@@ -14,6 +14,8 @@ Repositório criado para controle dos artefatos do projeto.
 
 ### [VPD](https://github.com/jvsantillo/AcabouMinhaLuzCERTICS/blob/master/VPD%20-%20Value%20Proposition%20Design/AcabouMinhaLuz%20-%20VPD.docx)
 
+### [Implementação da Aplicação Android](https://github.com/jvsantillo/AcabouMinhaLuzCERTICS/tree/master/project)
+
 ### Integrantes da Equipe
 * João Pedro Salgado
 * João Vitor Santillo
